@@ -1,11 +1,19 @@
 {
   "name": "scrolling-based-progressbar",
-  "version": "1.0.0",
+  "version": "1.17.0",
   "description": "Progress bar whose value changes based on scrolling",
   "author": "ValeedAnjum",
   "license": "MIT",
   "repository": "ValeedAnjum/scrolling-based-progressbar",
   "main": "dist/index.js",
+  "keywords": [
+    "Progress bar",
+    "scrolling progress bar",
+    "react progress bar",
+    "react scrolling based progress bar",
+    "react",
+    "scroll"
+  ],
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
   "engines": {
@@ -22,9 +30,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "prop-types": "^15.5.4",
-    "react": "^15.0.0 || ^16.0.0",
-    "react-dom": "^15.0.0 || ^16.0.0"
+    "react": "^15.0.0 || ^16.0.0"
   },
   "devDependencies": {
     "@svgr/rollup": "^2.4.1",
@@ -57,5 +63,6 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {}
 }
