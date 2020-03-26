@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save scrolling-based-progressbar
+npm install scrolling-based-progressbar
 ```
 
 ## Demo
