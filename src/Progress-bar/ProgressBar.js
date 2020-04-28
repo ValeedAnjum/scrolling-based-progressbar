@@ -24,6 +24,7 @@ export class ProgressBar extends Component {
             zIndex = '100000000',
             top = '0',
             left = '0',
+            position = 'fixed',
             ContainerStyle,
             ProgressBarStyle
         } = this.props;
@@ -31,7 +32,7 @@ export class ProgressBar extends Component {
             <div
                 style={{
                 zIndex: zIndex,
-                position: 'fixed',
+                position: position,
                 top: top,
                 left: left,
                 width: '100%',

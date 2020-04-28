@@ -51,6 +51,7 @@ top = '0'
 
 left = '0'
 
+position = 'fixed'
 
 ## ContainerStyle & ProgressBarStyle
 

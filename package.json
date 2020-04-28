@@ -1,6 +1,6 @@
 {
   "name": "scrolling-based-progressbar",
-  "version": "1.17.0",
+  "version": "1.18.0",
   "description": "Progress bar whose value changes based on scrolling",
   "author": "ValeedAnjum",
   "license": "MIT",
