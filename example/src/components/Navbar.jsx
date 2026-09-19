@@ -10,12 +10,12 @@ const Navbar = props => {
                     </Link>
                 </li>
                 <li>
-                    <Link to="/Home2">
+                    <Link to="/home2">
                         Home2
                     </Link>
                 </li>
                 <li>
-                    <Link to="/Home3">
+                    <Link to="/home3">
                         Home3
                     </Link>
                 </li>
